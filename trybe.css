@@ -410,7 +410,8 @@ button:hover{
     border-radius: 20px;
    
     align-items: center;
-    margin-left: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-top: 10px;
     padding: 30px;
     padding-bottom: 15px;
@@ -425,7 +426,8 @@ button:hover{
     border-radius: 20px;
      padding-bottom: 15px;
     align-items: center;
-    margin-left: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-top: 10px;
     padding: 30px;
     box-shadow: 0px 0px 20px 0px rgb(164, 164, 238);
