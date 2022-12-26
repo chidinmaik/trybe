@@ -404,8 +404,8 @@ button:hover{
     font-weight: 200;
 }
 .sect-box{
-    width: 100%;
-    height: fit-content;
+    width: 800px;
+    height: 800px;
     background-color: transparent;
     border-radius: 20px;
    
@@ -419,8 +419,8 @@ button:hover{
 }
 
 .sect-box2{
-    width: 100%;
-    height: fit-content;
+   width: 800px;
+    height: 800px;
     background-color: black;
     border-radius: 20px;
      padding-bottom: 15px;
